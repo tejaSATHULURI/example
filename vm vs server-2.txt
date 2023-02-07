@@ -1,0 +1,26 @@
+EC2 - Elastic Compute Cloud 
+
+SERVER:
+Servers are the computers which run services to server the needs of other computers
+
+TYPES:
+1. Web Server		: 	Apache, Nginx, IIS (Internet information service), GWS(Google Web server)
+2. Application server	:	Apache Tomcat, F5 Nginix, IBM Websphere
+3. Email Server
+4. Database server
+5. FTP Server
+6. File server
+7. Proxy server
+8. Streaming server
+9. IRC Server (Internet relay chat)
+10. Fax server
+
+VIRTUAL MACHINE:
+
+A VM is a program on a computer that works like it is a seperate computer inside the main computer 
+A ver powerful server can be split into several smaller virtual machines to use its resources better.
+
+TYPES:
+System vm's 
+Process vm's
+
